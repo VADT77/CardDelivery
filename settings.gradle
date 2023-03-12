@@ -1,2 +1,3 @@
-rootProject.name = 'selenide'
+rootProject.name = 'CardDelivery'
+include 'DeliveryCards'
 
